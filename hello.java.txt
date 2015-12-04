@@ -1,4 +1,4 @@
-public class hello
+dfapublic class hello
 {
 	public Static void(main
 }
