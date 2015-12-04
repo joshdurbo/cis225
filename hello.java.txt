@@ -1,0 +1,4 @@
+public class hello
+{
+	public Static void(main
+}
